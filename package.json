@@ -1,0 +1,14 @@
+{
+  "name": "activity-wall-api",
+  "version": "0.0.1",
+  "description": "A social network base on true activity.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mostafa Mirmousavi <mirmousavi.m@gmail.com> (https://mirmousavi.com/)",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
